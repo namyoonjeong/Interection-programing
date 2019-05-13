@@ -11,7 +11,7 @@ body{
   background-color:white;
   cursor:pointer;
 }
-svg{font-weight:bold;max-width:1000px;height:auto;margin-left:-50%;}
+svg{font-weight:bold;max-width:1000px;height:auto;margin-left:-80%;}
 div#title {left:40px;top:30px;font-size:18px;position:absolute;font-family:'Noto Sans KR', sans-serif;}
 div#title > h1 {color:#207ce5;}
 
